@@ -2,6 +2,7 @@
     Tokenizer and Input Validator
     Compiler Construction Project
     Branch: member2-tokenizer
+    Developer: Raffia Pervaiz (085)
 
     This program reads an infix expression and breaks it into
     individual tokens (operands, operators, parentheses). It also
